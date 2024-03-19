@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProject\\09\uC77C\uCC28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2FB8E2-766B-4343-8CE7-BC0669A999D1}|09\uC77C\uCC28.vcxproj|D:\\MyProject\\09\uC77C\uCC28\\08-01 GrayScale Image Processing_GA 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB2FB8E2-766B-4343-8CE7-BC0669A999D1}|09\uC77C\uCC28.vcxproj|solutionrelative:08-01 GrayScale Image Processing_GA 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08-01 GrayScale Image Processing_GA 1.c",
+              "DocumentMoniker": "D:\\MyProject\\09\uC77C\uCC28\\08-01 GrayScale Image Processing_GA 1.c",
+              "RelativeDocumentMoniker": "08-01 GrayScale Image Processing_GA 1.c",
+              "ToolTip": "D:\\MyProject\\09\uC77C\uCC28\\08-01 GrayScale Image Processing_GA 1.c",
+              "RelativeToolTip": "08-01 GrayScale Image Processing_GA 1.c",
+              "ViewState": "AQIAAIEHAAAAAAAAAAAcwJEHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T01:32:39.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
